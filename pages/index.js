@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Inicio</h1>
+    return <h1>Kanye West Genio</h1>
 }
 
 export default Home;
